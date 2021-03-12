@@ -70,7 +70,7 @@ yarn test
 ## Test HTTP requests
 Donwload Insomnia and import workspace from JSON
 * [Insomnia](https://insomnia.rest/download/) - So you can finally GET some REST 😴
-<a id="raw-url" href="https://github.com/lcoalves/ignite-conceitos-nodejs/ignite-conceitos-nodejs-insomnia.json">Download: Insomnia Workspace Tests</a>
+* [Insomnia Workspace Tests](https://raw.githubusercontent.com/lcoalves/ignite-conceitos-nodejs/main/ignite-conceitos-nodejs-insomnia.json) - Click to download
 
 
 ## Built With
