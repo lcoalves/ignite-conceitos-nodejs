@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Desafio 01 Ignite Conceitos NodeJS" title="Desafio 01 Ignite Conceitos NodeJS" src=".github/gostack-node.png" width="200px" />
+  <img alt="Desafio 01 Ignite Conceitos NodeJS" title="Desafio 01 Ignite Conceitos NodeJS" src=".github/ignite.png" width="800px" />
 </h1>
 
 <h3 align="center">
@@ -7,6 +7,8 @@
   <br>
   Acima foi construido uma API REST que cria, lista, atualiza e remove (CRUD) 'to.dos'.
 </h3>
+
+<p align="center">Challenge: <a href="https://www.notion.so/Desafio-01-Conceitos-do-Node-js-59ccb235aecd43a6a06bf09a24e7ede8">click here</a></p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lcoalves/ignite-conceitos-nodejs?color=%2304D361">
@@ -71,7 +73,6 @@ yarn test
 Donwload Insomnia and import workspace from JSON
 * [Insomnia](https://insomnia.rest/download/) - So you can finally GET some REST 😴
 * [Insomnia Workspace Tests](https://raw.githubusercontent.com/lcoalves/ignite-conceitos-nodejs/main/ignite-conceitos-nodejs-insomnia.json) - Click to download
-
 
 ## Built With
 
